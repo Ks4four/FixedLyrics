@@ -10,7 +10,7 @@
 
 (***Parental Advisory needed***) Some lrc files to fix incorrect one in some chinese music platfrom.
 
-(***必要家长指导***) 个人处理过的歌词，处理成lrc文件之后以供本地使用。
+(***必要家长指导***) 一个个人的歌词库，略带个人修正。
 
 ### 具体修正内容
 
