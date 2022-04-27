@@ -31,6 +31,15 @@
 #### 3. "Formatting"
 
 使歌词的标点符合 [genius.com](genius.com) 以及 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) (如果有中文)
+| https://music.163.com/#/song?id=484249650 | https://genius.com/Odesza-a-moment-apart-lyrics |
+|-|-|
+|I love you most,I love you more now.|I love you most, I love you more now|
+
+#### 4. "FixNoLyrics"
+
+补充因某些原因而消失的歌词，包括但不限于
+[Jon lajoie - Everyday Normal Guy 2](https://music.163.com/#/song?id=1516895)
+[Flume - Hi This Is Flume](https://music.163.com/#/song?id=1352956703)
 
 ### 音源
 
