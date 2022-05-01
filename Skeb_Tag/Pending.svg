@@ -1,5 +1,5 @@
-<svg width="94.5333" height="28" viewBox="0 0 94.5333 28" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="94.5333" height="28">
+<svg width="94.5333" height="21" viewBox="0 0 94.5333 21" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="94.5333" height="21">
     <div xmlns="http://www.w3.org/1999/xhtml">
 <html>
   <head>
@@ -21,7 +21,6 @@
             margin-right: 0;
             background-color: #363636;
             color: #fff;
-            margin-bottom: 0.5rem;
             align-items: center;
             border-radius: 4px;
             border-top-right-radius: 0px;
@@ -53,7 +52,6 @@
             margin-right: 0;
             background-color: #3e8ed0;
             color: #fff;
-            margin-bottom: 0.5rem;
             align-items: center;
             border-radius: 0px;
             border-top-right-radius: 4px;
