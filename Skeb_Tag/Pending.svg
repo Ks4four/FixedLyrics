@@ -5,8 +5,7 @@
   <head>
     <style>
       .flex-container {
-        display: -webkit-flex;
-        display: flex;
+        display: inline-flex;
       }
     </style>
   </head>
@@ -34,9 +33,6 @@
             padding-left: 0.75em;
             padding-right: 0.75em;
             white-space: nowrap;
-            font-style: inherit;
-            box-sizing: inherit;
-            text-align: inherit;
             font-family: Noto Sans JP, sans-serif;
             text-rendering: optimizeLegibility;
           "
@@ -67,9 +63,6 @@
             padding-right: 0.75em;
             white-space: nowrap;
             font-weight: 700 !important;
-            font-style: inherit;
-            box-sizing: inherit;
-            text-align: inherit;
             font-family: Noto Sans JP, sans-serif;
             text-rendering: optimizeLegibility;
           "
