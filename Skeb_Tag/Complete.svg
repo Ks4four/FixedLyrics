@@ -5,7 +5,7 @@
   <head>
     <style>
       .flex-container {
-        display: inline-flex;
+        display: inline-block;
       }
     </style>
   </head>
