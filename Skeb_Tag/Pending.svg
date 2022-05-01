@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg width="110" height="28" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="500" height="500">
     <div xmlns="http://www.w3.org/1999/xhtml">
 <html>
   <head>
@@ -79,6 +80,6 @@
     </div>
   </body>
 </html>
-
+        </foreignObject>
     </div>
 </svg>
