@@ -1,4 +1,4 @@
-<svg width="112" height="40" viewBox="8 8 112 40" xmlns="http://www.w3.org/2000/svg">
+<svg width="112" height="40" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="112" height="40">
     <div xmlns="http://www.w3.org/1999/xhtml">
 <html>
@@ -12,7 +12,7 @@
   <body>
     <div class="flex-container">
       <div class="flex-item">
-        <span
+        <div
           style="
             margin-left: 0;
             border-top-left-radius: 0;
@@ -37,11 +37,11 @@
             text-rendering: optimizeLegibility;
           "
           class=""
-          >状況</span
+          >状況</div
         >
       </div>
       <div class="flex-item">
-        <span
+        <div
           style="
             margin-left: 0;
             border-top-left-radius: 0;
@@ -67,8 +67,7 @@
             text-rendering: optimizeLegibility;
           "
           class=""
-          >作業中</span
-        >
+          >作業中</div
       </div>
     </div>
   </body>
