@@ -65,46 +65,4 @@
 歌词根据的音源一般是我能找到的最佳音质，至少是 16-Bit 44.1 kHz FLAC 的文件。
 
 ### 计划
-见 [issues](https://github.com/Ks4four/FixedLyrics/issues)
-
-100 gecs - 1000 gecs [16-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-100 gecs - 1000 gecs and The Tree of Clues [24-44.1, Tidal]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-AJR - Living Room [16-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-AJR - Neotheater [24-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-AJR - OK ORCHESTRA [16-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Complete.svg">
-
-AJR - The Click (Deluxe Edition) [24-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-AREA21 - Greatest Hits Vol. 1 [16-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-bitbird - create together vol.2 [16-44.1, Tidal]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-Bon Iver - For Emma, Forever Ago [16-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Accepted.svg">
-
-Flume - Hi This Is Flume [24-96]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-Joyryde - BRAVE [16-44.1, Tidal]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-ODESZA - A Moment Apart (Deluxe Edition) [24-44.1, Qobuz]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-San Holo - bb u ok? (Deluxe) [?]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
-
-WAVEDASH - World Famous Tour [16-44.1, Tidal]
-<img src="https://github.com/Ks4four/FixedLyrics/blob/fc9b55741b5b11b6654c7c90b9d70c70f20769fb/Skeb_Tag/Pending.svg">
+见 [Todo](https://github.com/Ks4four/FixedLyrics/blob/c3831e26d46e19d09f5bc398819a0acaf5ebfd2c/Todo.md) 或 [issues](https://github.com/Ks4four/FixedLyrics/issues)
