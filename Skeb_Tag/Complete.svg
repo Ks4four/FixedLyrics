@@ -5,8 +5,7 @@
   <head>
     <style>
       .flex-container {
-        display: -webkit-flex;
-        display: flex;
+        display: inline-flex;
       }
     </style>
   </head>
